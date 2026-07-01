@@ -3,7 +3,7 @@
 These files contain the full conversation transcripts referenced in the Substack essay
 "How did AI handle the shocking twist in The Drama?"
 
-[Link to essay](https://jacklucaschang.substack.com/p/how-did-ai-handle-the-shocking-twist)
+(Link to essay)[https://jacklucaschang.substack.com/p/how-did-ai-handle-the-shocking-twist]
 
 ---
 
